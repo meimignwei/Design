@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/bridge/Brand.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bridge/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bridge/FoldedPhone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bridge/Phone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bridge/UpRightPhone.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bridge/Vivo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bridge/XiaoMi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/flyweight/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/flyweight/ConcreteWebSite.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/flyweight/WebSite.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/flyweight/WebSiteFactory.java" charset="GBK" />
+  </component>
+</project>
